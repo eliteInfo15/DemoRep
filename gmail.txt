@@ -1,0 +1,3 @@
+smtp server : smtp.gmail.com
+
+SMTP port : 465
